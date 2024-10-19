@@ -13,7 +13,7 @@
 <p>
 
 <a href="https://instagram.com/dev.tiago_staciaki" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Helderjfl-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-dev.tiago_staciaki-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
 </p>

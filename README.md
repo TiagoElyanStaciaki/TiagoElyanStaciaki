@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://linkedin.com/in/tiagoelyanstaciaki" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Helderjfl-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-TiagoElyanStaciaki-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 </p>

@@ -3,6 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Paraná  
 💻 Técnico em Informática  
 🚀 Desenvolvedor focado em criar soluções modernas e eficientes  
+💼 Atualmente trabalho na **Pormade Portas Decorativas**, no setor de desenvolvimento, atuando como **Trainee Front-end** e evoluindo para me tornar **Desenvolvedor Full Stack**  
 🏢 Começando minha trajetória empreendedora desenvolvendo softwares para empresas  
 
 ---
@@ -22,20 +23,11 @@
 
 ## 📦 Alguns dos meus projetos
 - 🟢 **Sistemas empresariais sob demanda** — soluções personalizadas  
-- 🟡 Repositórios acadêmicos e experimentos (ADS)
-
----
-
-## 📊 Estatísticas do GitHub
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoElyanStaciaki&show_icons=true&theme=tokyonight"/>
-</div>
 
 ---
 
 ## 📫 Contato
-📩 Email: **seu email aqui**  
-📱 Instagram profissional: **seu instagram aqui**  
+📩 Email: tiago.staciaki2020@gmail.com  
 🌐 Portfólio: *em construção*
 
 ---

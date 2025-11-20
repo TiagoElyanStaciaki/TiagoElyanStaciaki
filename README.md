@@ -11,7 +11,8 @@
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="SCSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="TS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Node" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -20,25 +21,22 @@
 ---
 
 ## 📦 Alguns dos meus projetos
-- 🔵 **Nolvy** — Tema Shopify + Identidade visual (em desenvolvimento)  
 - 🟢 **Sistemas empresariais sob demanda** — soluções personalizadas  
 - 🟡 Repositórios acadêmicos e experimentos (ADS)
-
-Quer ver mais? Navegue nos meus repositórios! 👇
 
 ---
 
 ## 📊 Estatísticas do GitHub
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoElyanStaciaki&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoElyanStaciaki&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
 ## 📫 Contato
-📩 Email: **SEU EMAIL**  
-📱 Instagram profissional: **SEU INSTAGRAM**  
+📩 Email: **seu email aqui**  
+📱 Instagram profissional: **seu instagram aqui**  
 🌐 Portfólio: *em construção*
 
 ---

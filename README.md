@@ -23,7 +23,3 @@
 
 ## 📫 Contato
 📩 Email: tiago.staciaki2020@gmail.com  
-
----
-
-### ✨ “Transformando ideias em código e código em soluções reais.”  

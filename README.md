@@ -21,14 +21,8 @@
 
 ---
 
-## 📦 Alguns dos meus projetos
-- 🟢 **Sistemas empresariais sob demanda** — soluções personalizadas  
-
----
-
 ## 📫 Contato
 📩 Email: tiago.staciaki2020@gmail.com  
-🌐 Portfólio: *em construção*
 
 ---
 
